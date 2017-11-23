@@ -1,0 +1,11 @@
+# ide files
+.project
+.metadata
+.classpath
+.settings/
+target/
+.idea
+*.iml
+
+# java generated files
+*.class
