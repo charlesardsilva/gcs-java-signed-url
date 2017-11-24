@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.charlesasilva61</groupId>
 	<artifactId>gcs-java-signed-url</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Java Signed URL</name>
 	<description>Implementation to access Google Storage with signed URL.</description>
 
